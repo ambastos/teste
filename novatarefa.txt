@@ -1,2 +1,3 @@
 desenvolvendo uma tarefa nova
 completando nova funcionalidade do outro-branch
+alterado pelo outro usuario
