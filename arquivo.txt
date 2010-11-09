@@ -1,1 +1,1 @@
-Corrigi um bug no mesmo arquivo
+Corrigi um bug no mesmo arquivo de novogit status
