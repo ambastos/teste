@@ -1,2 +1,1 @@
-Corrigi um bug no mesmo arquivo
-asdfdasfasdfadsasfds
+teste de merge com fetch
