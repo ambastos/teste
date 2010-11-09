@@ -1,1 +1,2 @@
 teste de merge com fetch
+Corrigi um bug no mesmo arquivo de novogit status
